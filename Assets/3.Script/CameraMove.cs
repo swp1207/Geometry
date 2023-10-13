@@ -43,4 +43,13 @@ public class CameraMove : MonoBehaviour
         
     }
 
+    /*
+     * Å×½ºÆ®
+     * ±êÇé
+     * Á¶¾Æ¿ä
+     * 
+     * 
+     * 
+     * 1 2 3 4*/
+
 }
